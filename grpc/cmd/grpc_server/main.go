@@ -13,7 +13,7 @@ import (
 	"google.golang.org/protobuf/types/known/emptypb"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	desc "github.com/Ivanrumanchev/auth/pkg/user_v1"
+	desc "github.com/Ivanrumanchev/auth/grpc/pkg/user_v1"
 )
 
 func generateChatID() int64 {

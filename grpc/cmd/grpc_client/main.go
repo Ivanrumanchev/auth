@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	desc "github.com/Ivanrumanchev/auth/pkg/user_v1"
+	desc "github.com/Ivanrumanchev/auth/grpc/pkg/user_v1"
 )
 
 const (
