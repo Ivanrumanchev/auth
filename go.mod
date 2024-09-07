@@ -1,4 +1,4 @@
-module github.com/Ivanrumanchev/auth/grpc
+module github.com/Ivanrumanchev/auth
 
 go 1.21
 
