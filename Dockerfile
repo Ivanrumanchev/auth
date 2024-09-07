@@ -1,4 +1,4 @@
-FROM golang:1.20.3-alpine AS builder
+FROM golang:1.21-alpine AS builder
 
 COPY . /github.com/Ivanrumanchev/auth/source/
 WORKDIR /github.com/Ivanrumanchev/auth/source/
